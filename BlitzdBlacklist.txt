@@ -140261,3 +140261,9 @@ bitnimble.com
 bngprl.com
 smartscreen-prod.microsoft.com
 ping-edge.smartscreen.microsoft.com
+securepubads.g.doubleclick.net
+googleads4.g.doubleclick.net
+ssum-sec.casalemedia.com
+pagead2.googlesyndication.com
+server.cpmstar.com
+ssl.cdne.cpmstar.com
