@@ -140267,3 +140267,7 @@ ssum-sec.casalemedia.com
 pagead2.googlesyndication.com
 server.cpmstar.com
 ssl.cdne.cpmstar.com
+default.bbc-reporting-api.app
+uk-script.dotmetrics.net
+mybbc-analytics.files.bbci.co.uk
+sb.scorecardresearch.com
