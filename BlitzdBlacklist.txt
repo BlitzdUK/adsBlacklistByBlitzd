@@ -140276,3 +140276,6 @@ ht-cdn.trafficjunky.net
 e.tstng.net
 csi.gstatic.com
 adservice.google.co.uk
+ad-delivery.net
+ads.servenobid.com
+pb-server.ezoic.com
