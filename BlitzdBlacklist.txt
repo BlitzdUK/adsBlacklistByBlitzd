@@ -126060,7 +126060,6 @@ rr2.xxxcounter.com
 s-39.predictvideo.com
 s.bl-1.com
 s.update.fbsbx.com
-s.youtube.com  # Blocking this will interfere with video watching history
 s1-tracking.adalyser.com
 s1.shinystat.it
 s2.statcounter.com
