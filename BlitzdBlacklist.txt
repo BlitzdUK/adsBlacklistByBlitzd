@@ -140271,3 +140271,8 @@ default.bbc-reporting-api.app
 uk-script.dotmetrics.net
 mybbc-analytics.files.bbci.co.uk
 sb.scorecardresearch.com
+ht-cdn.trafficjunky.net.sds.rncdn7.com
+ht-cdn.trafficjunky.net
+e.tstng.net
+csi.gstatic.com
+adservice.google.co.uk
