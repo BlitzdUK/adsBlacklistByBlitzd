@@ -140278,3 +140278,11 @@ adservice.google.co.uk
 ad-delivery.net
 ads.servenobid.com
 pb-server.ezoic.com
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+cms.quantserve.com
+pm.w55c.net
+c1.adform.net
+cm.g.doubleclick.net
+fundingchoicesmessages.google.com
+edgeassetservice.azureedge.net
