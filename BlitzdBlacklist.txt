@@ -140287,3 +140287,7 @@ cm.g.doubleclick.net
 fundingchoicesmessages.google.com
 edgeassetservice.azureedge.net
 media.ethicalads.io
+ads.servenobid.com
+crmt.livejasmin.com
+ip222244066.ahcdn.com
+a1887.dscq.akamai.net
