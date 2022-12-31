@@ -148790,3 +148790,12 @@ zypmedia.com
 ||mathtag.com^
 ||springserve.com^
 ||mucdn.net^
+||adsafeprotected.com^
+||casalemedia.com^
+||adform.net^
+||openx.net^
+||stickyadstv.com^
+||dt.adsafeprotected.com^
+||2mdn.net^
+||pubgw.yahoo.com^
+||t13.io^
