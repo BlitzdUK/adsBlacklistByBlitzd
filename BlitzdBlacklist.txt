@@ -148800,3 +148800,4 @@ zypmedia.com
 ||pubgw.yahoo.com^
 ||t13.io^
 ||akamai.net^
+||kinesis.us-east-1.amazonaws.com^
