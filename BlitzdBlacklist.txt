@@ -148799,3 +148799,6 @@ zypmedia.com
 ||avct.cloud^
 ||infolinks.com^
 ||e10499.dsce9.akamaiedge.net^
+||a-emea.rfihub.com.akadns.net^
+||rubiconproject.net.akadns.net^
+||e13136.d.akamaiedge.net^
