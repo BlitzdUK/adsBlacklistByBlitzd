@@ -7713,7 +7713,7 @@ m.mixadvert.com
 # [mixmarket.biz]
 mixmarket.biz
 # [mixpanel.com]
-api.mixpanel.com
+
 api-js.mixpanel.com
 decide.mixpanel.com
 switchboard.mixpanel.com
