@@ -148713,3 +148713,12 @@ zukxd6fkxqn.com
 zwaar.net
 zwaar.org
 zypmedia.com
+||cloudfront.net^
+||neodatagroup.com^
+||eu-1-id5-sync.com^
+||e4.akamaiedge.net^
+||akamaiedge.net^
+||casalemedia.com.cdn.cloudflare.net^
+||sharethrough.com^
+||openx.net^
+||ads-yieldmo-com-eu-west-1-544050270.eu-west-1.elb.amazonaws.com^
