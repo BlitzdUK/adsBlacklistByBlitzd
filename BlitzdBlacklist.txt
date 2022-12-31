@@ -148721,7 +148721,6 @@ zypmedia.com
 ||adformnet.akadns.net^
 ||taboola.com^
 ||spotxchange.com^
-||akadns.net^
 ||zemanta.com^
 ||stackadapt.com^
 ||js-sec.indexww.com.cdn.cloudflare.net^
