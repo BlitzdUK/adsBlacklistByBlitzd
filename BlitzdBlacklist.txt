@@ -148787,7 +148787,6 @@ zypmedia.com
 ||2mdn.net^
 ||pubgw.yahoo.com^
 ||t13.io^
-||akamai.net^
 ||kinesis.us-east-1.amazonaws.com^
 ||aan.amazon.co.uk^
 ||mrpdata.net^
