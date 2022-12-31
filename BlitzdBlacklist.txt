@@ -148772,7 +148772,7 @@ zypmedia.com
 ||liveintent.com^
 ||alb-aws-fr-bruges-1875226813.eu-central-1.elb.amazonaws.com^
 ||cdn.indexww.com.cdn.cloudflare.net^
-||
+||userstylesapi.com^
 ||
 ||
 ||
