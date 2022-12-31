@@ -148703,7 +148703,6 @@ zukxd6fkxqn.com
 zwaar.net
 zwaar.org
 zypmedia.com
-||cloudfront.net^
 ||neodatagroup.com^
 ||eu-1-id5-sync.com^
 ||e4.akamaiedge.net^
@@ -148802,3 +148801,4 @@ zypmedia.com
 ||a-emea.rfihub.com.akadns.net^
 ||rubiconproject.net.akadns.net^
 ||e13136.d.akamaiedge.net^
+||wpc.lambdacdn.net^
