@@ -148707,7 +148707,6 @@ zypmedia.com
 ||neodatagroup.com^
 ||eu-1-id5-sync.com^
 ||e4.akamaiedge.net^
-||akamaiedge.net^
 ||casalemedia.com.cdn.cloudflare.net^
 ||sharethrough.com^
 ||openx.net^
