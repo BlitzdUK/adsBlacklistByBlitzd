@@ -148778,3 +148778,6 @@ zypmedia.com
 ||api.userscript.zone^
 ||userstylesapi.com^
 ||ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud^
+||aolp-ds-prd.aws.oath.cloud^
+||appier.org^
+||phicdn.net^
