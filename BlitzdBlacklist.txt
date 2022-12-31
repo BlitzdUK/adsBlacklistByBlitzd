@@ -148773,7 +148773,8 @@ zypmedia.com
 ||alb-aws-fr-bruges-1875226813.eu-central-1.elb.amazonaws.com^
 ||cdn.indexww.com.cdn.cloudflare.net^
 ||userstylesapi.com^
-||
-||
-||
-||
+||smartadserver.com^
+||dyntrk.com^
+||api.userscript.zone^
+||userstylesapi.com^
+||ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud^
