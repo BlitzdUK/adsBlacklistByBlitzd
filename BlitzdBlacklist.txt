@@ -3790,16 +3790,6 @@ web0.track.appier.net
 config.appjolt.com
 # [applanga.com]
 sdkapicdn.applanga.com
-# [apple.com]
-iadsdk.apple.com
-ca.iadsdk.apple.com
-cf.iadsdk.apple.com
-news.iadsdk.apple.com
-tr.iadsdk.apple.com
-ut.iadsdk.apple.com
-notes-analytics-events.apple.com
-stocks-analytics-events.apple.com
-weather-analytics-events.apple.com
 # [applicaster.com]
 assets-secure.applicaster.com
 # [applifier.com]
@@ -148809,3 +148799,5 @@ zypmedia.com
 ||indexww.com^
 ||ov1o.com^
 ||qcinternal.io^
+||avct.cloud^
+||infolinks.com^
