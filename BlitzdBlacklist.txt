@@ -148809,3 +148809,7 @@ zypmedia.com
 ||id.crwdcntrl.net^
 ||at.teads.tv^
 ||dnacdn.net^
+||trace.mediago.io^
+||e8960.b.akamaiedge.net^
+||e6603.g.akamaiedge.net^
+||d1jvc9b8z3vcjs.cloudfront.net^
