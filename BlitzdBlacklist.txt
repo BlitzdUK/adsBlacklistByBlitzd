@@ -142670,7 +142670,6 @@ en.personyze.com
 en.publicidad.net
 en.publicideas.com
 en.vivistats.com
-en.wikipedia.org
 en.zalando.de
 en25.com
 encrypted-tbn1.gstatic.com
@@ -148801,3 +148800,12 @@ zypmedia.com
 ||rubiconproject.net.akadns.net^
 ||e13136.d.akamaiedge.net^
 ||wpc.lambdacdn.net^
+||c2shb.pubgw.yahoo.com^
+||lexicon.33across.com^
+||gum.criteo.com^
+||id5-sync.com^
+||api.rlcdn.com^
+||idx.liadm.com^
+||id.crwdcntrl.net^
+||at.teads.tv^
+||dnacdn.net^
