@@ -148817,3 +148817,6 @@ zypmedia.com
 ||selectmedia.asia^
 ||cdn.indexww.com^
 ||csync.smilewanted.com^
+||play.selectmedia.asia^
+||d1ykf07e75w7ss.cloudfront.net^
+||e6115.g.akamaiedge.net^
