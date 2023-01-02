@@ -148830,3 +148830,4 @@ zypmedia.com
 ||godaddy.com.akadns.net^
 ||x.akamaiedge.net^
 ||sportradarserving.com^
+||aniview.com^
