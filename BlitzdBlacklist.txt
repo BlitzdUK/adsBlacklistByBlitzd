@@ -143041,11 +143041,6 @@ gioi-thieu.html
 giphy.com
 giraff.io
 gismeteo.ru
-github.com
-github.io
-githubapp.com
-githubassets.com
-githubusercontent.com
 gittip.com
 gizlilik.php
 gizmodo.com
