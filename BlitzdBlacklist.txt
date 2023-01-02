@@ -148835,3 +148835,6 @@ zypmedia.com
 ||unagi-na.amazon.com^
 ||eu-west-digital-v4-active.fwgtm.akadns.net^
 ||tracking.emerse.com^
+||eu-west-digital-v4-active.fwgtm.akadns.net^
+||d2qda6eimxvjbm.cloudfront.net^
+||e13136.g.akamaiedge.net^
