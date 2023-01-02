@@ -148831,3 +148831,7 @@ zypmedia.com
 ||x.akamaiedge.net^
 ||sportradarserving.com^
 ||aniview.com^
+||iponweb.net^
+||unagi-na.amazon.com^
+||eu-west-digital-v4-active.fwgtm.akadns.net^
+||tracking.emerse.com^
