@@ -148815,3 +148815,17 @@ zypmedia.com
 ||play.selectmedia.asia^
 ||d1ykf07e75w7ss.cloudfront.net^
 ||e6115.g.akamaiedge.net^
+||dtyry4ejybx0.cloudfront.net^
+||e607.d.akamaiedge.net^
+||stickyadstv.com.akadns.net^
+||ak-is2.net^
+||e11294.g.akamaiedge.net^
+||clientgear.com^
+||a267.g.akamai.net^
+||e4536.g.akamaiedge.net
+||hotjar.com^
+||d1ekdn256kz7p5.cloudfront.net^
+||
+||
+||
+||
