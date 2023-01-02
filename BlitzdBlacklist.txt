@@ -148825,7 +148825,8 @@ zypmedia.com
 ||e4536.g.akamaiedge.net
 ||hotjar.com^
 ||d1ekdn256kz7p5.cloudfront.net^
-||
-||
-||
-||
+||fwgtm.akadns.net^
+||thirdparty.com^
+||godaddy.com.akadns.net^
+||x.akamaiedge.net^
+||sportradarserving.com^
