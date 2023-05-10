@@ -3418,8 +3418,6 @@ ingest.vungle.akadns.net
 # [akamai.net]
 a1843.g.akamai.net
 a50.g2.akamai.net
-# [akamaiedge.net]
-e7876.dscg.akamaiedge.net
 # [akamaihd.net]
 ds-aksb-a.akamaihd.net
 inmobisdk-a.akamaihd.net
