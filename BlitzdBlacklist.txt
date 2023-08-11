@@ -33857,3 +33857,5 @@ a1s.unibet.com
 welcome.unibet.co.uk
 www.unibet.co.uk
 dukingdraon.com
+(\.|^)unibet\.com$
+(\.|^)unibet\.co.uk$
