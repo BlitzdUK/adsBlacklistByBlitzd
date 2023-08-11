@@ -33850,3 +33850,5 @@ northamerica.ns.search-email-machinevision.net.zooplus.it
 northamerica.ns.search-firewall-machinevision.net.zooplus.it
 northamerica.ns.search-latin-machinevision.net.zooplus.it
 ninoglostoay.com
+promotions.betfred.com
+bfpartners.click
