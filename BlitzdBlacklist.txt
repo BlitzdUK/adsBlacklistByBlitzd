@@ -33860,3 +33860,11 @@ dukingdraon.com
 (\.|^)unibet\.com$
 (\.|^)unibet\.co.uk$
 (\.|^)addthis\.com$
+thooklyn-arresign.com
+(\.|^)thooklyn-arresign\.com$
+(\.|^)thooklyn-arresign\.com$
+(\.|^)unavailable\.stream$
+(\.|^)datatechonert\.com$
+(\.|^)fleraprt\.com$
+(\.|^)augigous\.net$
+(\.|^)gisgasjkmirl\.com$
