@@ -33857,14 +33857,6 @@ a1s.unibet.com
 welcome.unibet.co.uk
 www.unibet.co.uk
 dukingdraon.com
-(\.|^)unibet\.com$
-(\.|^)unibet\.co.uk$
-(\.|^)addthis\.com$
-thooklyn-arresign.com
-(\.|^)thooklyn-arresign\.com$
-(\.|^)thooklyn-arresign\.com$
-(\.|^)unavailable\.stream$
-(\.|^)datatechonert\.com$
-(\.|^)fleraprt\.com$
-(\.|^)augigous\.net$
-(\.|^)gisgasjkmirl\.com$
+unavailable.stream
+datatechonert.com
+fleraprt.com
