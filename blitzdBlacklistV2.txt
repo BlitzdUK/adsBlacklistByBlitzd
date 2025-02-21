@@ -1,15 +1,25 @@
 # ⚡ Blitzd Media - Ultimate Ad & Tracker Blocklist ⚡
 # 🚀 Blocks Ads, Trackers, Analytics & Malware 🚀
-# 📅 Updated: 18:25GMT - 21/2/2025
-# Version 0.1
+# 📅 Updated: 18:35GMT - 21/2/2025
+# Version 0.2
 # 🔗 Contact: Telegram (t.me/blitzd) | Messenger (m.me/BlitzdMedia)
 # 🛑 Compatible with AdGuard Home, Pi-hole, uBlock Origin, and more
+
+##########################
+# Update history
+#
+# 0.1
+	# Inital commit
+#
+# 0.2
+	# Removal of preloved domain due to blocking access to used service 
+#
+
 
 ##########################
 # ✅ Your Original Domains
 ##########################
 
-||preloved.co.uk^
 ||thcdn.com^
 ||cookielaw.org^
 ||b-cdn.net^
