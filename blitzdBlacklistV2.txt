@@ -24,7 +24,6 @@
 ||cookielaw.org^
 ||b-cdn.net^
 ||affiliatefuture.com^
-||cloudfront.net^
 ||sharethru.com^
 ||media.net^
 ||adventori.com^
