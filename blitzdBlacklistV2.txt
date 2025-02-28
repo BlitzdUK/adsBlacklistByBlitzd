@@ -108,13 +108,11 @@
 ||ivitrack.com^
 ||demdex.net^
 ||liadm.com^
-||yahoo.net^
 ||admixer.net^
 ||agkn.com^
 ||gumgum.com^
 ||lijit.com^
 ||audrte.com^
-||yahoo.com^
 ||semasio.net^
 ||rfihub.com^
 ||tapad.com^
