@@ -207,3 +207,4 @@
 ||tracking-protection.mozilla.org^
 ||match.prod.bidr.io^
 ||match.prod.criteo.com^
+||cognito-identity.eu-west-1.amazonaws.com^
