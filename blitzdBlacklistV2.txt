@@ -18,8 +18,8 @@
 # Fixed formatting issue 
 #
 # 0.4
-# Removed amazon associated backend domains that #stopped the amazon ios app displaying media and not breaking ccs but it could not
-be loaded. 
+# Removed amazon associated backend domains that #stopped the amazon ios app displaying media and breaking ccs but it could not
+#
 ##########################
 # ✅ Your Original Domains
 ##########################
