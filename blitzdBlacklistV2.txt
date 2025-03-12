@@ -12,10 +12,14 @@
 # Inital commit
 #
 # 0.2
-# Removal of preloved domain due to blocking access to used service 
+# Removal of preloved domain due to blocking # access to used service 
 #
 # 0.3
-* Fixed formatting issue 
+# Fixed formatting issue 
+#
+# 0.4
+# Removed amazon associated backend domains that #stopped the amazon ios app displaying media and not breaking ccs but it could not
+be loaded. 
 ##########################
 # ✅ Your Original Domains
 ##########################
@@ -138,7 +142,6 @@
 ||w55c.net^
 ||disqus.com^
 ||flashtalking.com^
-||media-amazon.com^
 ||harveylongsons.com^
 ||3lift.com^
 
